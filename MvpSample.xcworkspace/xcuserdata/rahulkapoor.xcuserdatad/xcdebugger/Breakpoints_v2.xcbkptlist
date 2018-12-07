@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MvpSample/Presenter/MenuDetailPresenter.swift"
+            timestampString = "548318902.101055"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "85"
+            endingLineNumber = "85"
+            landmarkName = "onErrorReceived(error:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MvpSample.MenuDetailPresenter.onErrorReceived(error: __ObjC.NSError) -&gt; ()"
+                  moduleName = "MvpSample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rahulkapoor/Desktop/MvpSample/MvpSample/Presenter/MenuDetailPresenter.swift"
+                  timestampString = "548318902.232322"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "85"
+                  endingLineNumber = "85"
+                  offsetFromSymbolStart = "21">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MvpSampleTests.MenuDetailPresenter.onErrorReceived(error: __ObjC.NSError) -&gt; ()"
+                  moduleName = "MvpSampleTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rahulkapoor/Desktop/MvpSample/MvpSample/Presenter/MenuDetailPresenter.swift"
+                  timestampString = "548318905.28084"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "85"
+                  endingLineNumber = "85"
+                  offsetFromSymbolStart = "21">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MvpSample/Presenter/MenuDetailPresenter.swift"
+            timestampString = "548318902.105504"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "56"
+            endingLineNumber = "56"
+            landmarkName = "getMenuForCustomer()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MvpSample.MenuDetailPresenter.getMenuForCustomer() -&gt; ()"
+                  moduleName = "MvpSample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rahulkapoor/Desktop/MvpSample/MvpSample/Presenter/MenuDetailPresenter.swift"
+                  timestampString = "548318902.384576"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "56"
+                  endingLineNumber = "56"
+                  offsetFromSymbolStart = "42">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MvpSampleTests.MenuDetailPresenter.getMenuForCustomer() -&gt; ()"
+                  moduleName = "MvpSampleTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rahulkapoor/Desktop/MvpSample/MvpSample/Presenter/MenuDetailPresenter.swift"
+                  timestampString = "548318905.287811"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "56"
+                  endingLineNumber = "56"
+                  offsetFromSymbolStart = "42">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MvpSample/Presenter/MenuDetailPresenter.swift"
+            timestampString = "548318902.110491"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "75"
+            endingLineNumber = "75"
+            landmarkName = "onMenuReceived(details:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MvpSample.MenuDetailPresenter.onMenuReceived(details: Swift.Array&lt;MvpSample.MenuDetailModel&gt;) -&gt; ()"
+                  moduleName = "MvpSample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rahulkapoor/Desktop/MvpSample/MvpSample/Presenter/MenuDetailPresenter.swift"
+                  timestampString = "548318902.403842"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "75"
+                  endingLineNumber = "75"
+                  offsetFromSymbolStart = "21">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MvpSampleTests.MenuDetailPresenter.onMenuReceived(details: Swift.Array&lt;MvpSampleTests.MenuDetailModel&gt;) -&gt; ()"
+                  moduleName = "MvpSampleTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rahulkapoor/Desktop/MvpSample/MvpSample/Presenter/MenuDetailPresenter.swift"
+                  timestampString = "548318905.293713"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "75"
+                  endingLineNumber = "75"
+                  offsetFromSymbolStart = "21">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MvpSample/Server Request/MenuRequestFetcher.swift"
+            timestampString = "548259546.869148"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "getDetails(requestProtocol:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__ObjC.URLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in static MvpSample.MenuRequestFetcher.getDetails(requestProtocol: MvpSample.MenuRequestProtocol) -&gt; ()"
+                  moduleName = "MvpSample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rahulkapoor/Desktop/MvpSample/MvpSample/Server%20Request/MenuRequestFetcher.swift"
+                  timestampString = "548318902.416056"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "3772">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__ObjC.URLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in static MvpSampleTests.MenuRequestFetcher.getDetails(requestProtocol: MvpSampleTests.MenuRequestProtocol) -&gt; ()"
+                  moduleName = "MvpSampleTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rahulkapoor/Desktop/MvpSample/MvpSample/Server%20Request/MenuRequestFetcher.swift"
+                  timestampString = "548318905.299474"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "3772">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MvpSample/Server Request/MenuRequestFetcher.swift"
+            timestampString = "548259546.869522"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "36"
+            endingLineNumber = "36"
+            landmarkName = "getDetails(requestProtocol:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__ObjC.URLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in static MvpSample.MenuRequestFetcher.getDetails(requestProtocol: MvpSample.MenuRequestProtocol) -&gt; ()"
+                  moduleName = "MvpSample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rahulkapoor/Desktop/MvpSample/MvpSample/Server%20Request/MenuRequestFetcher.swift"
+                  timestampString = "548318902.428388"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "390">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__ObjC.URLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in static MvpSampleTests.MenuRequestFetcher.getDetails(requestProtocol: MvpSampleTests.MenuRequestProtocol) -&gt; ()"
+                  moduleName = "MvpSampleTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rahulkapoor/Desktop/MvpSample/MvpSample/Server%20Request/MenuRequestFetcher.swift"
+                  timestampString = "548318905.310824"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "390">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MvpSample/Server Request/MenuRequestFetcher.swift"
+            timestampString = "548259546.870576"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "61"
+            endingLineNumber = "61"
+            landmarkName = "getDetails(requestProtocol:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__ObjC.URLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in static MvpSample.MenuRequestFetcher.getDetails(requestProtocol: MvpSample.MenuRequestProtocol) -&gt; ()"
+                  moduleName = "MvpSample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rahulkapoor/Desktop/MvpSample/MvpSample/Server%20Request/MenuRequestFetcher.swift"
+                  timestampString = "548318902.438516"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "61"
+                  endingLineNumber = "61"
+                  offsetFromSymbolStart = "4773">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__ObjC.URLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in static MvpSampleTests.MenuRequestFetcher.getDetails(requestProtocol: MvpSampleTests.MenuRequestProtocol) -&gt; ()"
+                  moduleName = "MvpSampleTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rahulkapoor/Desktop/MvpSample/MvpSample/Server%20Request/MenuRequestFetcher.swift"
+                  timestampString = "548318905.316236"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "61"
+                  endingLineNumber = "61"
+                  offsetFromSymbolStart = "4773">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MvpSampleTests/MenuDetailFlowTest.m"
+            timestampString = "548318902.112974"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "-testWeAreInformingAboutRequestStart"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
